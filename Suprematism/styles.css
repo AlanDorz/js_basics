@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+section {
+  position: relative;
+  height: 24vh;
+  margin-top: 1vw;
+}
+
+.box {
+  height: 15vw ;
+  position: absolute;
+  top: 5vh;
+  left: 44vw;
+  transition: all 400ms ease;
+}
+
+.triangle {
+  height: 20vw ;
+  position: absolute;
+  top: 5vh;
+  left: 23vw;
+  transition: all 400ms ease;
+}
+
+.circle {
+  height: 16vw ;
+  position: absolute;
+  top: 5vh;
+  left: 43vw;
+  transition: all 400ms ease;
+}
